@@ -1,0 +1,49 @@
+
+html{
+    background-color: lightgray;
+    font-family:Tahoma;
+    text-align:center;
+    max-width:700px;
+    min-width:700px;
+    justify-content:center;
+    margin:auto;
+    overflow-wrap: anywhere;
+  }
+  
+  #image{
+   display:block; 
+   max-width:100%;
+   min-width:100%;
+   padding:1px 0 0 0;
+   justify-content:center;
+   margin:auto;
+  }
+  
+  figcaption{
+    padding:1px 0 100px 0;
+  }
+  
+  #description{
+   margin-top:10;
+   padding:0;
+  }
+  
+  header{
+    padding:10%
+  }
+  
+  #tribute-info{
+    display:block;
+    padding:0 20% ;
+    margin:fixed;
+  }
+  
+  li{
+     padding:11px 1px ;
+     text-align:left;   
+  }
+  
+  #last{
+    padding: 0 0 40px 0;
+  }
+  
